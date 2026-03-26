@@ -45,7 +45,7 @@ export default function Hero() {
           {/* Slide 1 */}
           <SwiperSlide>
             <div className="bg-white/10 backdrop-blur-lg text-white p-10 rounded-3xl shadow-2xl min-h-125">
-              <div className="flex gap-2 mb-3">
+              <div className="flex flex-wrap gap-2 mb-3">
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">STUDENT PROFILES</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">ATTENDANCE</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">TRANSCRIPT</span>
@@ -59,7 +59,7 @@ export default function Hero() {
           {/* Slide 2 */}
           <SwiperSlide>
             <div className="bg-white/10 backdrop-blur-lg text-white p-10 rounded-3xl shadow-2xl min-h-125">
-              <div className="flex gap-2 mb-3">
+              <div className="flex  flex-wrap gap-2 mb-3">
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">COURSE BUILDER</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">ASSIGNMENT</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">ASSESSMENT</span>
@@ -73,7 +73,7 @@ export default function Hero() {
           {/* Slide 3 */}
           <SwiperSlide>
             <div className="bg-white/10 backdrop-blur-lg text-white p-10 rounded-3xl shadow-2xl min-h-125">
-              <div className="flex gap-2 mb-3">
+              <div className="flex  flex-wrap gap-2 mb-3">
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">ADMIN VIEW</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">TEACHER VIEW</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">STUDENT VIEW</span>
@@ -87,7 +87,7 @@ export default function Hero() {
           {/* Slide 4 */}
           <SwiperSlide>
             <div className="bg-white/10 backdrop-blur-lg text-white p-10 rounded-3xl shadow-2xl min-h-125">
-              <div className="flex gap-2 mb-3">
+              <div className="flex flex-wrap gap-2 mb-3">
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">PREDICTION</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">AUTOMATIO</span>
                 <span className="text-xs text-teal-300 bg-white-500/20 backdrop-blur-md px-3 py-1 rounded-full">INSIGHT</span>
