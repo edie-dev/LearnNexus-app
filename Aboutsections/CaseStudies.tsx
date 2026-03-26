@@ -32,7 +32,7 @@ export default function CaseStudies() {
         <>
 
         <section className="mt-34 mb-2 px-20 text-center pt-34">
-              <h1 className="text-7xl font-bold text-white">Real Impact, Real Results</h1>
+              <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold text-white">Real Impact, Real Results</h1>
               <p className="text-gray-400 text-2xl mt-4">We deliever measurable transformation for educational institutions worldwide.</p>
         </section>
     {/* //     <div className="min-h-screen flex items-center justify-center px-6">

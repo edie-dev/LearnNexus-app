@@ -36,7 +36,7 @@ export default function FAQs() {
   return (
     <>
       <section className="mt-34 px-20 text-center">
-        <h1 className="text-7xl font-bold text-white">Frequently Asked Questions</h1>
+        <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold text-white">Frequently Asked Questions</h1>
         <p className="text-gray-400 text-2xl mt-4">
           Everything you need to know about the LearnNexus ecosystem.
         </p>
